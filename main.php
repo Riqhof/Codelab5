@@ -1,6 +1,5 @@
 <?php
 header("Content-Type: application/json; charset=UTF-8");
-
 include "Routes/ProductRoutes.php";
 
 use Routes\ProductRoutes;
